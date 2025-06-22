@@ -1,14 +1,22 @@
 # 👟 ADIDAS Landing Page
 
-Landing Page إعلانية أنيقة لمنتج أحذية ADIDAS، مصممة باستخدام **HTML** و **CSS** فقط.  
-بتتميز بتصميم عصري وخلفية ديناميكية باستخدام `clip-path`، وشكل متجاوب مع جميع أحجام الشاشات.
+An elegant landing page for an ADIDAS shoes product, built using only HTML and CSS.
+It features a modern design, a dynamic background using clip-path, and a fully responsive layout for all screen sizes.
+
+
+
+
+
+
+
+
+
 
 ---
 
 ## 🌐 رابط المشروع (live demo)
 
 [🔗 اضغط هنا لتجربة الموقع](https://antonious-sameh.github.io/adidas-landing-page/)
-
 
 ---
 
@@ -20,7 +28,7 @@ Landing Page إعلانية أنيقة لمنتج أحذية ADIDAS، مصممة
 
 ## 🛠️ التقنيات المستخدمة
 
-- ✅ HTML5
-- ✅ CSS3 (مع استخدام clip-path و media queries)
-- ❌ بدون JavaScript
-- ✅ تصميم Responsive بالكامل
+- ✅ HTML5  
+- ✅ CSS3   
+- ❌  JavaScript بدون  
+- ✅ بالكامل Responsive تصميم 
